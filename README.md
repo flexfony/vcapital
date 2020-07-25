@@ -1,2 +1,2 @@
-# vcapital
-v0.2
+# V-Capital
+V-Capital Financial Services
